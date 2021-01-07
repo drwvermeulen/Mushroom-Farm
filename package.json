@@ -3,7 +3,9 @@
     "description": "a really cool app",
     "version": "14.5.0",
     "engines": {
-      "node": "12.x"
+      "node": "12.x",
+      "npm": "6.x",
+      "npm install @digitaloak/node-red-contrib-digitaloak-postgresql"
     },
     "dependencies": {
         "when": "3.7.8",
@@ -19,6 +21,6 @@
         "node-red-node-rbe": "0.2.9",
         "node-red-node-tail": "0.1.1",
         "node-red-node-ui-list": "0.3.1",
-        "node-red-contrib-digitaloak-postgresql": "0.3.0"
+        "@digitaloak/node-red-contrib-digitaloak-postgresql": "0.3.0"
     }
 }
