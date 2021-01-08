@@ -1,0 +1,28 @@
+{
+    "name": "mushroomfarmnodered",
+    "description": "a really cool app",
+    "version": "14.5.0",
+    "engines": {
+      "node": "12.x",
+      "npm": "6.x"
+    },
+    "scripts": {
+  		"start": "node server.js"
+	},
+    "dependencies": {
+        "when": "3.7.8",
+        "nano": "8.2.2",
+        "feedparser":"2.2.10",
+        "redis":"3.0.2",
+        "node-red": "1.1.3",
+        "node-red-contrib-aedes": "0.3.6",
+        "node-red-contrib-blynk-ws": "1.0.3",
+        "node-red-contrib-telegrambot": "8.4.0",
+        "node-red-dashboard": "2.23.3",        
+        "node-red-node-email": "1.7.9",
+        "node-red-node-rbe": "0.2.9",
+        "node-red-node-tail": "0.1.1",
+        "node-red-node-ui-list": "0.3.1",
+        "@digitaloak/node-red-contrib-digitaloak-postgresql": "0.3.0"
+    }
+}
