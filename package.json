@@ -6,9 +6,6 @@
       "node": "12.x",
       "npm": "6.x"
     },
-    "scripts": {
-  		"start": "node server.js"
-	},
     "dependencies": {
         "when": "3.7.8",
         "nano": "8.2.2",
