@@ -3,7 +3,7 @@
   "description": "A visual tool for wiring the Internet of Things, for Heroku deployment.",
   "keywords": [ "Node-RED", "IoT", "Internet of Things", "node.js", "Node", "NodeRED", "Nodejs", "Blynk", "Blynk Cloud" ],
   "website": "http://nodered.org/",
-  "repository": "https://github.com/drwvermeulen/Mushroom-Farm.git",
+  "repository": "https://github.com/drwvermeulen/Mushroom-Farm",
   "logo": "http://nodered.org/node-red.png",
   "success_url": "/editor",
   "env": {
